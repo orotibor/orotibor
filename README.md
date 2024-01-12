@@ -12,14 +12,6 @@
 
 <body style="font-family: 'Montserrat', sans-serif;">
     <h1>README</h1>
-    <h2>Links:</h2>
-    <h3>
-        <ul class="content">
-            <ul class="link"><a href="https://dev.to/orotibor" class="Links">dev.to</a></ul>
-            <ul class="link"><a href="https://www.linkedin.com/in/orotibor/" class="Links">LinkedIn</a></ul>
-            <ul class="link"><a href="https://arc.dev/@tibororosz">arc.dev</a></ul>
-        </ul>
-    </h3>
     <h2>Actively using Following Technologies:</h2>
     <h3>
         <ul class="prof">
