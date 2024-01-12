@@ -23,45 +23,32 @@
     <h2>Actively using Following Technologies:</h2>
     <h3>
         <ul class="prof">
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
-                    alt="jQuery and jQuery mobile profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-                    alt="HTML5 profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-                    alt="CSS3 profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
-                    alt="JavaScript profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
-                    alt="Vue.Js profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"
-                    alt="Google SEO and SEA"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
-                    alt="WordPress profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
-                    alt="GitHub profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-                    alt="Visual Studio Code profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
-                    alt="MySQL profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
-                    alt="Node.Js profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
-                    alt="NPM profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
-                    alt="PHP profiency"></ul>
+            <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"
+                    alt="jQuery and jQuery mobile profiency">
+            <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
+                    alt="HTML5 profiency">
+            <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
+                    alt="CSS3 profiency">
+            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+                    alt="JavaScript profiency">
+            <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+                    alt="Vue.Js profiency">
+            <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"
+                    alt="Google SEO and SEA">
+            <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"
+                    alt="WordPress profiency">
+            <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"
+                    alt="GitHub profiency">
+            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+                    alt="Visual Studio Code profiency">
+            <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+                    alt="MySQL profiency">
+            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+                    alt="Node.Js profiency">
+            <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"
+                    alt="NPM profiency">
+            <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
+                    alt="PHP profiency">
             <ul class="profiency"><img src="" alt=""></ul>
             <ul class="profiency"><img src="" alt=""></ul>
         </ul>
