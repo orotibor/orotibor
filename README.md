@@ -11,10 +11,8 @@
 </head>
 
 <body style="font-family: 'Montserrat', sans-serif;">
-
     <h1>README</h1>
     <h2>Links:</h2>
-
     <h3>
         <ul class="content">
             <ul class="link"><a href="https://dev.to/orotibor" class="Links">dev.to</a></ul>
@@ -22,9 +20,7 @@
             <ul class="link"><a href="https://arc.dev/@tibororosz">arc.dev</a></ul>
         </ul>
     </h3>
-
     <h2>Actively using Following Technologies:</h2>
-
     <h3>
         <ul class="prof">
             <ul class="profiency"><img
@@ -70,9 +66,7 @@
             <ul class="profiency"><img src="" alt=""></ul>
         </ul>
     </h3>
-
     <h2>Planning to learn in 2024:</h2>
-
     <h3>
         <ul class="prof">
             <ul class="profiency"><img
@@ -95,11 +89,9 @@
                     alt="LinkedIn profiency"></ul>
         </ul>
     </h3>
-
     <h2>Currently Working On:</h2>
     <h5>I am currently enrolled in an incubation program within the company I am working, where I am learning as a
         developer. <br> <br> I will soon complete several of my own and external portfolio pages.</h6>
-
         <h6>
             <ul>Made with &#x1F493 in Augsburg 2024</ul>
         </h6>
