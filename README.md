@@ -53,7 +53,8 @@
             <ul class="profiency"><img src="" alt=""></ul>
         </ul>
     </h3>
-        <h2>Using following Operation Systems:
+    <h3>
+        <h2>Using following Operation Systems:</h2>
         <ul class="prof">
             <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
                     alt="Ubuntu profiency">
@@ -64,7 +65,7 @@
             <img src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white"
                     alt="Zorin OS profiency">
         </ul>
-    </h2>
+    </h3>
     <h2>Planning to learn in 2024:</h2>
     <h3>
         <ul class="prof">
