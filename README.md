@@ -69,24 +69,18 @@
     <h2>Planning to learn in 2024:</h2>
     <h3>
         <ul class="prof">
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
-                    alt="MariaDB profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"
-                    alt="Apache profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-                    alt="Python profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
-                    alt="ChatGPT profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"
-                    alt="iOS profiency"></ul>
-            <ul class="profiency"><img
-                    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-                    alt="LinkedIn profiency"></ul>
+            <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
+                    alt="MariaDB profiency">
+            <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"
+                    alt="Apache profiency">
+            <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+                    alt="Python profiency">
+            <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
+                    alt="ChatGPT profiency">
+            <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"
+                    alt="iOS profiency">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+                    alt="LinkedIn profiency">
         </ul>
     </h3>
     <h2>Currently Working On:</h2>
