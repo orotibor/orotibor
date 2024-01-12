@@ -1,0 +1,39 @@
+.prof {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    align-content: space-evenly;
+    backdrop-filter: blur(20%);
+}
+.profiency {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    align-content: space-evenly;
+    margin-top: auto;
+    padding: 3px;
+}
+h3 {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    margin-top: auto;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.link {
+    margin-left: -10%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-basis: auto;
+    align-content: center;
+}
+a {
+    text-decoration: none;
+}
