@@ -48,7 +48,7 @@
         </ul>
     </h3>
     <h3>
-        <h2>Using following Operation Systems:</h2>
+        <h2>Using following Platforms:</h2>
         <ul class="prof">
             <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
                     alt="Ubuntu profiency">
@@ -79,7 +79,7 @@
     <h5>I am currently enrolled in an incubation program within the company I am working, where I am learning as a
         developer. <br> <br> I will soon complete several of my own and external portfolio pages.</h6>
         <h6>
-            <ul>Made with &#x1F493 in Germany 2024</ul>
+            <ul>Made with &#x1F493 in Germany 2025</ul>
         </h6>
 
 </body>
