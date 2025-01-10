@@ -41,6 +41,8 @@
                     alt="NPM profiency">
             <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
                     alt="PHP profiency">
+            <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
+                    alt="ChatGPT profiency">
             <ul class="profiency"><img src="" alt=""></ul>
             <ul class="profiency"><img src="" alt=""></ul>
         </ul>
@@ -58,7 +60,7 @@
                     alt="Zorin OS profiency">
         </ul>
     </h3>
-    <h2>Planning to learn in 2024:</h2>
+    <h2>Planning to learn in 2025:</h2>
     <h3>
         <ul class="prof">
             <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"
@@ -67,8 +69,6 @@
                     alt="Apache profiency">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
                     alt="Python profiency">
-            <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
-                    alt="ChatGPT profiency">
             <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"
                     alt="iOS profiency">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
