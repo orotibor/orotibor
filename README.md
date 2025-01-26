@@ -48,7 +48,7 @@
     <h3>
         <h2>Using following Platforms:</h2>
         <ul class="prof">
-            <img src="[https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
                     alt="Ubuntu profiency">
             <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
                     alt="Ubuntu profiency">
