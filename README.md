@@ -43,13 +43,13 @@
                     alt="PHP profiency">
             <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"
                     alt="ChatGPT profiency">
-            <ul class="profiency"><img src="" alt=""></ul>
-            <ul class="profiency"><img src="" alt=""></ul>
         </ul>
     </h3>
     <h3>
         <h2>Using following Platforms:</h2>
         <ul class="prof">
+            <img src="[https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+                    alt="Ubuntu profiency](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)">
             <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
                     alt="Ubuntu profiency">
             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
