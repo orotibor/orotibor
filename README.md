@@ -48,8 +48,8 @@
     <h3>
         <h2>Using following Platforms:</h2>
         <ul class="prof">
-            <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
-                    alt="Ubuntu profiency">
+            <img src="https://camo.githubusercontent.com/74b688dfeb8d077ac65b90b367e33edece64f04f377c6c7ec29b833e3960701b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70726f786d6f782d70726f786d6f783f7374796c653d666f722d7468652d6261646765266c6f676f3d70726f786d6f78266c6f676f436f6c6f723d253233453537303030266c6162656c436f6c6f723d25323332623261333326636f6c6f723d253233326232613333"
+                    alt="Proxmox profiency">
             <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
                     alt="Ubuntu profiency">
             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
