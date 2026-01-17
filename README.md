@@ -48,7 +48,7 @@
     <h3>
         <h2>Using following Platforms:</h2>
         <ul class="prof">
-            <img src="https://camo.githubusercontent.com/74b688dfeb8d077ac65b90b367e33edece64f04f377c6c7ec29b833e3960701b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70726f786d6f782d70726f786d6f783f7374796c653d666f722d7468652d6261646765266c6f676f3d70726f786d6f78266c6f676f436f6c6f723d253233453537303030266c6162656c436f6c6f723d25323332623261333326636f6c6f723d253233326232613333"
+            <img src="#"
                     alt="Proxmox profiency">
             <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
                     alt="Ubuntu profiency">
@@ -69,8 +69,6 @@
                     alt="Apache profiency">
             <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
                     alt="Python profiency">
-            <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"
-                    alt="iOS profiency">
             <img src="https://camo.githubusercontent.com/d4cfec9550517aa67567e29843e3880ebf50bd7eeceafcd3b82875f17c9f564e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"
                     alt="iOS profiency">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
